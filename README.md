@@ -1,5 +1,4 @@
-# C-Graphics-Engine
-Engine to draw pixels in the Windows console, easily handle files, print text in specific parts of the console and more...
+# "Un0" C++ Graphics Engine
 
 This is a graphics engine that I originally designed as a set of functions for the aesthetics of a school project and decided to continue and improve it, so I made this Engine to draw pixels in the Windows console, easily handle files, print in specific parts of the console (Something like the Gotoxy function, but something better), make dynamic sprites, save them as text and print them with pixels in console and things like that.
 
